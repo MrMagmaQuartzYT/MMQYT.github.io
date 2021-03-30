@@ -1,5 +1,6 @@
         body {
-            background-image: linear-gradient(90deg, rgb(3, 217, 245), gray);
+            /*background-image: linear-gradient(90deg, rgb(3, 217, 245), gray); */
+            background-color: rgb(3, 217, 245);
         }
         
         .heading {
